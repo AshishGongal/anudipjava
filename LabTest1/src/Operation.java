@@ -26,7 +26,7 @@ public class Operation {
 
             
             default:
-                System.out.printf("invalid operator");
+                System.out.println("invalid operator");
                 return;
         }
 
