@@ -1,0 +1,17 @@
+.banner
+{
+    background-image:url('https://images.pexels.com/photos/2730355/pexels-photo-2730355.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') !important;
+    height: 800px;
+    background-position: center top;
+    background-size: cover;
+}
+
+.banner h1
+{
+    color: azure;
+    font-size: 40px;
+    font-weight: bold;
+    top: 20%;
+    left: 10%;
+    position: absolute;
+}
